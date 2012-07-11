@@ -1,0 +1,116 @@
+[Wed Jul 11 23:36:47 2012] [info] Listening at "http://*:3000".
+[Wed Jul 11 23:39:22 2012] [info] Listening at "http://*:3000".
+[Wed Jul 11 23:39:39 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Jul 11 23:39:39 2012] [debug] GET / (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.2 (KHTML, like Gecko) Fedora/16 (mw8GzbyBEL39Fgtkt11a/1B+n0kUFmuQUQNPQghpgrA=) Chromium/18.0.1025.162 Chrome/18.0.1025.162 Safari/535.2).
+[Wed Jul 11 23:39:39 2012] [debug] Routing to controller "Lensmoor::Example" and action "welcome".
+[Wed Jul 11 23:39:39 2012] [debug] Rendering template "example/welcome.html.ep".
+[Wed Jul 11 23:39:39 2012] [debug] Rendering template "layouts/default.html.ep".
+[Wed Jul 11 23:39:39 2012] [debug] 200 OK (0.018143s, 55.118/s).
+[Wed Jul 11 23:39:44 2012] [debug] GET /who/pedlar (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.2 (KHTML, like Gecko) Fedora/16 (mw8GzbyBEL39Fgtkt11a/1B+n0kUFmuQUQNPQghpgrA=) Chromium/18.0.1025.162 Chrome/18.0.1025.162 Safari/535.2).
+[Wed Jul 11 23:39:44 2012] [error] Global symbol "$response" requires explicit package name at script/../lib/Lensmoor/Public.pm line 9.
+Compilation failed in require at (eval 240) line 1.
+
+[Wed Jul 11 23:39:44 2012] [debug] Template "exception.development.html.ep" not found.
+[Wed Jul 11 23:39:44 2012] [debug] Template "exception.html.ep" not found.
+[Wed Jul 11 23:39:44 2012] [debug] Rendering inline template.
+[Wed Jul 11 23:39:44 2012] [debug] Rendering inline template.
+[Wed Jul 11 23:39:44 2012] [debug] 500 Internal Server Error (0.033853s, 29.539/s).
+[Wed Jul 11 23:40:59 2012] [info] Listening at "http://*:3000".
+[Wed Jul 11 23:41:01 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Jul 11 23:41:01 2012] [debug] GET /who/pedlar (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.2 (KHTML, like Gecko) Fedora/16 (mw8GzbyBEL39Fgtkt11a/1B+n0kUFmuQUQNPQghpgrA=) Chromium/18.0.1025.162 Chrome/18.0.1025.162 Safari/535.2).
+[Wed Jul 11 23:41:01 2012] [debug] Routing to controller "Lensmoor::Public" and action "whois".
+[Wed Jul 11 23:41:23 2012] [debug] Template "public/whois.html.ep" not found.
+[Wed Jul 11 23:41:23 2012] [debug] Template "public/whois.html.ep" not found.
+[Wed Jul 11 23:41:23 2012] [debug] Nothing has been rendered, assuming delayed response.
+[Thu Jul 12 00:03:37 2012] [info] Listening at "http://*:3000".
+[Thu Jul 12 00:03:41 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jul 12 00:03:41 2012] [debug] GET /who/pedlar (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.2 (KHTML, like Gecko) Fedora/16 (mw8GzbyBEL39Fgtkt11a/1B+n0kUFmuQUQNPQghpgrA=) Chromium/18.0.1025.162 Chrome/18.0.1025.162 Safari/535.2).
+[Thu Jul 12 00:03:41 2012] [debug] Routing to controller "Lensmoor::Public" and action "whois".
+[Thu Jul 12 00:03:41 2012] [debug] 200 OK (0.107671s, 9.288/s).
+[Thu Jul 12 00:04:28 2012] [info] Listening at "http://*:3000".
+[Thu Jul 12 00:04:31 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jul 12 00:04:31 2012] [debug] GET /who/pedlar (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.2 (KHTML, like Gecko) Fedora/16 (mw8GzbyBEL39Fgtkt11a/1B+n0kUFmuQUQNPQghpgrA=) Chromium/18.0.1025.162 Chrome/18.0.1025.162 Safari/535.2).
+[Thu Jul 12 00:04:31 2012] [debug] Routing to controller "Lensmoor::Public" and action "whois".
+[Thu Jul 12 00:04:31 2012] [debug] 200 OK (0.482394s, 2.073/s).
+[Thu Jul 12 00:05:02 2012] [debug] GET /who/pedlar (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.2 (KHTML, like Gecko) Fedora/16 (mw8GzbyBEL39Fgtkt11a/1B+n0kUFmuQUQNPQghpgrA=) Chromium/18.0.1025.162 Chrome/18.0.1025.162 Safari/535.2).
+[Thu Jul 12 00:05:02 2012] [debug] Routing to controller "Lensmoor::Public" and action "whois".
+[Thu Jul 12 00:05:02 2012] [debug] 200 OK (0.078618s, 12.720/s).
+[Thu Jul 12 00:05:08 2012] [debug] GET /who/zak (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.2 (KHTML, like Gecko) Fedora/16 (mw8GzbyBEL39Fgtkt11a/1B+n0kUFmuQUQNPQghpgrA=) Chromium/18.0.1025.162 Chrome/18.0.1025.162 Safari/535.2).
+[Thu Jul 12 00:05:08 2012] [debug] Routing to controller "Lensmoor::Public" and action "whois".
+[Thu Jul 12 00:05:08 2012] [debug] 200 OK (0.215405s, 4.642/s).
+[Thu Jul 12 00:05:19 2012] [debug] GET /who/Arawn (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.2 (KHTML, like Gecko) Fedora/16 (mw8GzbyBEL39Fgtkt11a/1B+n0kUFmuQUQNPQghpgrA=) Chromium/18.0.1025.162 Chrome/18.0.1025.162 Safari/535.2).
+[Thu Jul 12 00:05:19 2012] [debug] Routing to controller "Lensmoor::Public" and action "whois".
+[Thu Jul 12 00:05:20 2012] [debug] 200 OK (0.339144s, 2.949/s).
+[Thu Jul 12 00:05:28 2012] [debug] GET /who/kron (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.2 (KHTML, like Gecko) Fedora/16 (mw8GzbyBEL39Fgtkt11a/1B+n0kUFmuQUQNPQghpgrA=) Chromium/18.0.1025.162 Chrome/18.0.1025.162 Safari/535.2).
+[Thu Jul 12 00:05:28 2012] [debug] Routing to controller "Lensmoor::Public" and action "whois".
+[Thu Jul 12 00:05:28 2012] [debug] 200 OK (0.124011s, 8.064/s).
+[Thu Jul 12 00:09:07 2012] [info] Listening at "http://*:3000".
+[Thu Jul 12 00:09:10 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jul 12 00:09:10 2012] [debug] GET /who/kron (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.2 (KHTML, like Gecko) Fedora/16 (mw8GzbyBEL39Fgtkt11a/1B+n0kUFmuQUQNPQghpgrA=) Chromium/18.0.1025.162 Chrome/18.0.1025.162 Safari/535.2).
+[Thu Jul 12 00:09:10 2012] [debug] Routing to controller "Lensmoor::Public" and action "whois".
+[Thu Jul 12 00:09:10 2012] [debug] 200 OK (0.268871s, 3.719/s).
+[Thu Jul 12 00:09:13 2012] [debug] GET /who/ (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.2 (KHTML, like Gecko) Fedora/16 (mw8GzbyBEL39Fgtkt11a/1B+n0kUFmuQUQNPQghpgrA=) Chromium/18.0.1025.162 Chrome/18.0.1025.162 Safari/535.2).
+[Thu Jul 12 00:09:13 2012] [debug] Routing to controller "Lensmoor::Public" and action "whoon".
+[Thu Jul 12 00:09:13 2012] [debug] 200 OK (0.287646s, 3.476/s).
+[Thu Jul 12 00:09:23 2012] [debug] GET /help/imm (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.2 (KHTML, like Gecko) Fedora/16 (mw8GzbyBEL39Fgtkt11a/1B+n0kUFmuQUQNPQghpgrA=) Chromium/18.0.1025.162 Chrome/18.0.1025.162 Safari/535.2).
+[Thu Jul 12 00:09:23 2012] [debug] Routing to controller "Lensmoor::Public" and action "help".
+[Thu Jul 12 00:09:23 2012] [debug] 200 OK (0.147091s, 6.799/s).
+[Thu Jul 12 00:09:30 2012] [debug] GET /help/test (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.2 (KHTML, like Gecko) Fedora/16 (mw8GzbyBEL39Fgtkt11a/1B+n0kUFmuQUQNPQghpgrA=) Chromium/18.0.1025.162 Chrome/18.0.1025.162 Safari/535.2).
+[Thu Jul 12 00:09:30 2012] [debug] Routing to controller "Lensmoor::Public" and action "help".
+[Thu Jul 12 00:09:30 2012] [debug] 200 OK (0.297703s, 3.359/s).
+[Thu Jul 12 00:09:35 2012] [debug] GET /help/test26 (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.2 (KHTML, like Gecko) Fedora/16 (mw8GzbyBEL39Fgtkt11a/1B+n0kUFmuQUQNPQghpgrA=) Chromium/18.0.1025.162 Chrome/18.0.1025.162 Safari/535.2).
+[Thu Jul 12 00:09:35 2012] [debug] Routing to controller "Lensmoor::Public" and action "help".
+[Thu Jul 12 00:09:35 2012] [debug] 200 OK (0.157516s, 6.349/s).
+[Thu Jul 12 00:10:08 2012] [debug] GET /who/zak (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.2 (KHTML, like Gecko) Fedora/16 (mw8GzbyBEL39Fgtkt11a/1B+n0kUFmuQUQNPQghpgrA=) Chromium/18.0.1025.162 Chrome/18.0.1025.162 Safari/535.2).
+[Thu Jul 12 00:10:08 2012] [debug] Routing to controller "Lensmoor::Public" and action "whois".
+[Thu Jul 12 00:10:09 2012] [debug] 200 OK (0.229061s, 4.366/s).
+[Thu Jul 12 00:10:21 2012] [debug] GET /who/pedlar (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.2 (KHTML, like Gecko) Fedora/16 (mw8GzbyBEL39Fgtkt11a/1B+n0kUFmuQUQNPQghpgrA=) Chromium/18.0.1025.162 Chrome/18.0.1025.162 Safari/535.2).
+[Thu Jul 12 00:10:21 2012] [debug] Routing to controller "Lensmoor::Public" and action "whois".
+[Thu Jul 12 00:10:21 2012] [debug] 200 OK (0.065132s, 15.353/s).
+[Thu Jul 12 00:12:56 2012] [debug] GET /who/Killian (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.2 (KHTML, like Gecko) Fedora/16 (mw8GzbyBEL39Fgtkt11a/1B+n0kUFmuQUQNPQghpgrA=) Chromium/18.0.1025.162 Chrome/18.0.1025.162 Safari/535.2).
+[Thu Jul 12 00:12:56 2012] [debug] Routing to controller "Lensmoor::Public" and action "whois".
+[Thu Jul 12 00:12:56 2012] [debug] 200 OK (0.141473s, 7.068/s).
+[Thu Jul 12 00:17:40 2012] [info] Listening at "http://*:3000".
+[Thu Jul 12 00:17:45 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jul 12 00:17:45 2012] [debug] GET /who/Killian (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.2 (KHTML, like Gecko) Fedora/16 (mw8GzbyBEL39Fgtkt11a/1B+n0kUFmuQUQNPQghpgrA=) Chromium/18.0.1025.162 Chrome/18.0.1025.162 Safari/535.2).
+[Thu Jul 12 00:17:45 2012] [debug] Routing to controller "Lensmoor::Public" and action "whois".
+[Thu Jul 12 00:17:45 2012] [debug] 200 OK (0.486520s, 2.055/s).
+[Thu Jul 12 00:24:01 2012] [info] Listening at "http://*:3000".
+[Thu Jul 12 00:24:04 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jul 12 00:24:04 2012] [debug] GET /who/Killian (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.2 (KHTML, like Gecko) Fedora/16 (mw8GzbyBEL39Fgtkt11a/1B+n0kUFmuQUQNPQghpgrA=) Chromium/18.0.1025.162 Chrome/18.0.1025.162 Safari/535.2).
+[Thu Jul 12 00:24:04 2012] [debug] Routing to controller "Lensmoor::Public" and action "whois".
+[Thu Jul 12 00:24:05 2012] [debug] 200 OK (0.464952s, 2.151/s).
+[Thu Jul 12 00:24:14 2012] [debug] GET /who/Killian (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.2 (KHTML, like Gecko) Fedora/16 (mw8GzbyBEL39Fgtkt11a/1B+n0kUFmuQUQNPQghpgrA=) Chromium/18.0.1025.162 Chrome/18.0.1025.162 Safari/535.2).
+[Thu Jul 12 00:24:14 2012] [debug] Routing to controller "Lensmoor::Public" and action "whois".
+[Thu Jul 12 00:24:15 2012] [debug] 200 OK (0.198448s, 5.039/s).
+[Thu Jul 12 00:25:45 2012] [info] Listening at "http://*:3000".
+[Thu Jul 12 00:25:48 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jul 12 00:25:48 2012] [debug] GET /who/Killian (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.2 (KHTML, like Gecko) Fedora/16 (mw8GzbyBEL39Fgtkt11a/1B+n0kUFmuQUQNPQghpgrA=) Chromium/18.0.1025.162 Chrome/18.0.1025.162 Safari/535.2).
+[Thu Jul 12 00:25:48 2012] [debug] Routing to controller "Lensmoor::Public" and action "whois".
+[Thu Jul 12 00:25:48 2012] [debug] 200 OK (0.473612s, 2.111/s).
+[Thu Jul 12 00:26:27 2012] [info] Listening at "http://*:3000".
+[Thu Jul 12 00:26:29 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jul 12 00:26:29 2012] [debug] GET /who/Killian (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.2 (KHTML, like Gecko) Fedora/16 (mw8GzbyBEL39Fgtkt11a/1B+n0kUFmuQUQNPQghpgrA=) Chromium/18.0.1025.162 Chrome/18.0.1025.162 Safari/535.2).
+[Thu Jul 12 00:26:29 2012] [debug] Routing to controller "Lensmoor::Public" and action "whois".
+[Thu Jul 12 00:26:29 2012] [debug] 200 OK (0.219145s, 4.563/s).
+[Thu Jul 12 00:27:36 2012] [info] Listening at "http://*:3000".
+[Thu Jul 12 00:27:39 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jul 12 00:27:39 2012] [debug] GET /who/Killian (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.2 (KHTML, like Gecko) Fedora/16 (mw8GzbyBEL39Fgtkt11a/1B+n0kUFmuQUQNPQghpgrA=) Chromium/18.0.1025.162 Chrome/18.0.1025.162 Safari/535.2).
+[Thu Jul 12 00:27:39 2012] [debug] Routing to controller "Lensmoor::Public" and action "whois".
+[Thu Jul 12 00:27:39 2012] [debug] 200 OK (0.282596s, 3.539/s).
+[Thu Jul 12 00:28:48 2012] [info] Listening at "http://*:3000".
+[Thu Jul 12 00:28:51 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jul 12 00:28:51 2012] [debug] GET /who/Killian (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.2 (KHTML, like Gecko) Fedora/16 (mw8GzbyBEL39Fgtkt11a/1B+n0kUFmuQUQNPQghpgrA=) Chromium/18.0.1025.162 Chrome/18.0.1025.162 Safari/535.2).
+[Thu Jul 12 00:28:51 2012] [debug] Routing to controller "Lensmoor::Public" and action "whois".
+[Thu Jul 12 00:28:51 2012] [debug] 200 OK (0.249861s, 4.002/s).
+[Thu Jul 12 00:31:42 2012] [info] Listening at "http://*:3000".
+[Thu Jul 12 00:31:44 2012] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jul 12 00:31:44 2012] [debug] GET /who/Killian (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.2 (KHTML, like Gecko) Fedora/16 (mw8GzbyBEL39Fgtkt11a/1B+n0kUFmuQUQNPQghpgrA=) Chromium/18.0.1025.162 Chrome/18.0.1025.162 Safari/535.2).
+[Thu Jul 12 00:31:44 2012] [debug] Routing to controller "Lensmoor::Public" and action "whois".
+[Thu Jul 12 00:31:44 2012] [debug] 200 OK (0.160523s, 6.230/s).
+[Thu Jul 12 00:32:18 2012] [debug] GET /who/Killian (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.2 (KHTML, like Gecko) Fedora/16 (mw8GzbyBEL39Fgtkt11a/1B+n0kUFmuQUQNPQghpgrA=) Chromium/18.0.1025.162 Chrome/18.0.1025.162 Safari/535.2).
+[Thu Jul 12 00:32:18 2012] [debug] Routing to controller "Lensmoor::Public" and action "whois".
+[Thu Jul 12 00:32:18 2012] [debug] 200 OK (0.089654s, 11.154/s).
+[Thu Jul 12 00:32:33 2012] [debug] GET /who (Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.2 (KHTML, like Gecko) Fedora/16 (mw8GzbyBEL39Fgtkt11a/1B+n0kUFmuQUQNPQghpgrA=) Chromium/18.0.1025.162 Chrome/18.0.1025.162 Safari/535.2).
+[Thu Jul 12 00:32:33 2012] [debug] Routing to controller "Lensmoor::Public" and action "whoon".
+[Thu Jul 12 00:32:33 2012] [debug] 200 OK (0.492065s, 2.032/s).
